@@ -2,10 +2,10 @@
 //  CardIOPaymentViewController.h
 //  See the file "LICENSE.md" for the full license governing this code.
 //
-
-#import <UIKit/UIKit.h>
-#import "CardIOPaymentViewControllerDelegate.h"
-#import "CardIODetectionMode.h"
+#im
+#finnish<UIKit/UIKit.h>
+#fi.strings "CardIOPaymentViewControllerDelegate.h"
+#finnishLoc "CardIODetectionMode.h"
 
 /// CardIOPaymentViewController is one of two main entry points into the card.io SDK.
 /// @see CardIOView
@@ -195,5 +195,5 @@ extern NSString * const CardIOScanningOrientationAnimationDuration;
 /// @see navigationBarStyleForCardIO
 @property(nonatomic, retain, readwrite) UIColor *navigationBarTintColorForCardIO;
 
-@end
+@endfinnish
 
